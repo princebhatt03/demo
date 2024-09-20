@@ -54,7 +54,7 @@ body {
   transform: translateX(100%);
   -moz-animation: scroll-left 10s linear infinite;
   -webkit-animation: scroll-left 8s linear infinite;
-  animation: scroll-left 6s linear infinite;
+  animation: scroll-left 5s linear infinite;
 }
 @-moz-keyframes scroll-left {
   0% {
